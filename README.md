@@ -1,3 +1,5 @@
+[https://apify.com/epctex/kickstarter-scraper?fpr=yhdrb](https://apify.com/epctex/kickstarter-scraper?fpr=yhdrb)
+
 # Kickstarter Scraper
 The ultimate and most all-encompassing Kickstarter tool you'll ever discover. With powerful search features, you can instantly locate and access any live project on Kickstarter.com. Search by location, project status, funding progress, and more. User-friendly, cost-effective, and without limitations.
 
